@@ -43,7 +43,7 @@ python training.py
 ## Future Improvements
 - Extend the backdoor attack to the **CIFAR-10 dataset** for real-world image impact analysis.
 - Optimize **hyperparameters** to fine-tune stealth and effectiveness.
-- Resolve **PyTorch/CUDA security issues** to enhance the stability of the attack implementation.
+- Resolve **PyTorch/CUDA security issues** to enhance the stability of the attack implementation. If someone has an explaination please tell me
 
 ## Contributors
 - **Gabriel Pecoraro**
